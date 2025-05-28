@@ -8,6 +8,8 @@ Help a send the messages with the winners in the training or tournaments.
 
 Send the message with rules, advertisements and news in the Scrims Community Discord.
 
+(In the future, my owner configure a more functions)
+
 ## 🛠️ Installation
 
 Install my-project with npm
