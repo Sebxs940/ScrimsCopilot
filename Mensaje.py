@@ -12,6 +12,7 @@ import re  # Para buscar URLs en el mensaje
 # ID de los canales
 channels = {
     "Reglas": 1376958975307812947,
+    "Logs": 1376958976121372753,
     "Anuncios": 1376964056186880000,
     "Noticias": 1375478735108706405,
     "Configuración": 1371039870595633163,
